@@ -12,7 +12,6 @@ app.use(express.json());
 
 app.use(express.static('./public'));
 
-
 app.use('/api/v1/messages', messageRoutes);
 
 app.use('/api/v1/download', downloadRoutes);
