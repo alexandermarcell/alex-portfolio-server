@@ -5,7 +5,7 @@
     "stack": "HTML, CSS, Flexbox",
     "synopsis": "Practicing CSS flexbox and box model building from a design for a travel agency",
     "id": "6cba42f6-4991-4c75-8e84-de9130c3a009",
-    "link": "travelsite-alex.netlify.app"
+    "link": "https://travelsite-alex.netlify.app"
   },
   {
     "title": "BandSite",
@@ -13,7 +13,7 @@
     "stack": "HTML, Sass, JavaScript, Axios",
     "synopsis": "Bio page for band to inform site visitors a little about the band as well as providing their schedule tour dates and location.",
     "id": "8e90c2f9-cd38-4250-97f4-eb7bdcac6b8a",
-    "link": "bandsite-alex.netlify.app"
+    "link": "https://bandsite-alex.netlify.app"
   },
   {
     "title": "Movie Rater",
@@ -21,7 +21,7 @@
     "stack": "HTML, Sass, JavaScript",
     "synopsis": "Codeacademy project turned into passion project. Currently a work in progress",
     "id": "8b9b7701-6cc4-439f-a8ae-ad84cff5869b",
-    "link": "movietracking.netlify.app"
+    "link": "https://movietracking.netlify.app"
   },
   {
     "title": "BrainFlix",
