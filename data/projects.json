@@ -5,7 +5,7 @@
     "stack": "HTML, CSS, Flexbox",
     "synopsis": "Practicing CSS flexbox and box model building from a design for a travel agency",
     "id": "6cba42f6-4991-4c75-8e84-de9130c3a009",
-    "link": "https://www.netflix.com"
+    "link": "travelsite-alex.netlify.app"
   },
   {
     "title": "BandSite",
@@ -13,7 +13,7 @@
     "stack": "HTML, Sass, JavaScript, Axios",
     "synopsis": "Bio page for band to inform site visitors a little about the band as well as providing their schedule tour dates and location.",
     "id": "8e90c2f9-cd38-4250-97f4-eb7bdcac6b8a",
-    "link": "https://www.google.com"
+    "link": "bandsite-alex.netlify.app"
   },
   {
     "title": "Movie Rater",
@@ -21,7 +21,7 @@
     "stack": "HTML, Sass, JavaScript",
     "synopsis": "Codeacademy project turned into passion project. Currently a work in progress",
     "id": "8b9b7701-6cc4-439f-a8ae-ad84cff5869b",
-    "link": "https://www.facebook.com"
+    "link": "movietracking.netlify.app"
   },
   {
     "title": "BrainFlix",
@@ -29,7 +29,7 @@
     "stack": "React, Sass, JavaScript, Axios, Express, Node",
     "synopsis": "Video uploading site to mirror a youtube like clone.",
     "id": "14765944-ca14-4f72-a293-57408bb00fef",
-    "link": "https://www.apple.com"
+    "link": "https://alex-brainflix-client2.netlify.app/"
   },
   {
     "title": "InStock",
@@ -37,13 +37,13 @@
     "stack": "React, Sass, JavaScript, Axios, Express, Node, Jira",
     "synopsis": "Collaborative group project for warehouse and inventory management system for a company. Fully functioning and able to add new items, manage inventory, managers and warehouses.",
     "id": "197db192-8de8-43c4-a5a8-02339a2ca9f3",
-    "link": "https://www.amazon.com"
+    "link": "https://instock-client-alex.netlify.app/"
   },
   {
     "title": "Naje E-store",
     "image":"https://alex-portfolio-server.herokuapp.com/images/under-construction.jpg",
     "stack": "React, Redux, Sass, JavaScript, Axios, Express, Node, MongoDB, Mongoose, JWT",
-    "synopsis": "Collaborative group project for warehouse and inventory management system for a company. Fully functioning and able to add new items, manage inventory, managers and warehouses.",
+    "synopsis": "E-commerce webstore made powered by React.js, mongodb, and others with a stripe api for checkout.",
     "id": "60741572-34b0-4b61-be8c-364a9f34d3d5",
     "link": "https://www.cisco.com"
   }
