@@ -1,6 +1,5 @@
 const express = require('express');
 const app = express();
-const messageRoutes = require('./routes/messages');
 const downloadRoutes = require('./routes/download');
 const projectRoutes = require('./routes/projects');
 const cors = require('cors');
@@ -11,8 +10,6 @@ app.use(cors());
 app.use(express.json());
 
 app.use(express.static('./public'));
-
-app.use('/api/v1/messages', messageRoutes);
 
 app.use('/api/v1/download', downloadRoutes);
 
