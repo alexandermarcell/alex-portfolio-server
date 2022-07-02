@@ -41,10 +41,10 @@
   },
   {
     "title": "Naje E-store",
-    "image":"https://alex-portfolio-server.herokuapp.com/images/under-construction.jpg",
-    "stack": "React, Redux, Sass, JavaScript, Axios, Express, Node, MongoDB, Mongoose, JWT",
+    "image":"https://alex-portfolio-server.herokuapp.com/images/najestore.png",
+    "stack": "React, Redux, Sass, JavaScript, Axios, Express, Node, MongoDB, Mongoose, stripe and TailwindUI",
     "synopsis": "E-commerce webstore made powered by React.js, mongodb, and others with a stripe api for checkout.",
     "id": "60741572-34b0-4b61-be8c-364a9f34d3d5",
-    "link": "https://www.cisco.com"
+    "link": "https://najestore.netlify.app/"
   }
 ]
